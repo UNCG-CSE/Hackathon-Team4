@@ -1,0 +1,82 @@
+﻿Name,Label
+Baseball',Baseball Stadium (177) - Main Meter
+ 'BryanBldg',Bryan Building (082) - Main Meter
+ 'CampusSupplyStore' ,Campus Supply Store (050) - Main Meter
+ 'CarmichaelBldg' ,Carmichael Building (032) - Main Meter
+ 'ChemicalSafety' ,Chemical Safety Facility (174) - Main Meter 
+ 'ConeArtBldg',Cone Art Building (099) - Main Meter
+ 'CurryBldg',Curry Building (045) - Main Meter
+ 'Eberhart' ,Eberhart Building (063) - Main Meter
+ 'ElliottUnivCenter' ,Elliott University Center (040) - Main Meter
+ 'Graham',Graham Building (058) - Main Meter
+ 'GrayHome' ,Gray Home Management House (059) - Main Meter
+ 'GroganHall',Grogan Residence Hall (020) - Main Meter
+ 'GuilfordResHall',Guilford Residence Hall (025) - Main Meter
+ 'HHP',Coleman (HHP) Building (098) - Main Meter
+ 'HHPSoccerField' ,Soccer Stadium (135) - Main Meter
+ 'JLibraryOldEastAtDoor' ,Jackson Library (039) - Main Meter-1 
+ 'JLibraryOldEastPanelP',Jackson Library (039) - Main Meter-2 Old East Building
+ 'JacksonLibChiller' ,Jackson Library Chiller (051) - Main Meter
+ 'MaryFoustHall' ,Mary Foust Residence Hall (026) - Main Meter
+ 'McIverDeckChillerSvc3',McIver Chiller Plant (168) -Meter Service-3
+ 'McIverStPrkgDeck' ,McIver Street Parking Deck (169) - Main Meter
+ 'MooreNursingBldg',Moore Nursing Building (056) - Main Meter
+ 'MooreStrongResHall',Moore Strong Residence Hall (013) - Main Meter
+ 'MooreStrongSiteLts011',Moore Strong Residence Hall (013) -Site Light 011 Submeter 
+ 'MooreStrongSiteLts127',Moore Strong Residence Hall (013) -Site Light 127 Submeter
+ 'Mossman',Mossman Building (080) - Main Meter
+ 'OaklandAveParkingDeck',Oakland Parking Deck (252) - Main Meter
+ 'PettyBldg',Petty Building (029) - Main Meter
+ 'ReynoldsHall',Reynolds Residence Hall (019) - Main Meter
+ 'SchOfMusic',Music Building (170) - Main Meter
+ 'SinkGroundsBldg',Sink Maintenance & Grounds Building (048) - Main Meter
+ 'SinkOffices',Sink Maintenance Building (048) -Sink Offices Submeter 
+" 'Spencer' - ""Spencer Hall""",North & South Spencer Residence Hall (024 & 023) - Main Meter
+ 'SpringGardenAptsCStore',Spring Garden Apartments (237) - Previously  Food Court Submeter 
+ 'SteamPlant',UNCG Steam Plant (049) - Main Meter
+ 'StoneBuilding',Stone Building (031) - Main Meter
+ 'StudentRecCenterMain',1510 Walker Ave. Building (134) - Main Meter 
+ 'SullivanScience',Sullivan Science Building (178) - Main Meter
+ 'TaylorTheatre',Taylor Theatre (035) - Main Meter
+ 'TowerVillage',Tower Village Apartments (137) - Main Meter
+ 'VisitorCenter',Armfield-Preyer Admissions and Visitor Center (041) - Main Meter
+ 'WalkerDeck',Walker Ave Parking Deck (141) - Main Meter
+ 'WeilWinfield',Weil-Winfield Residence Hall (236) - Main Meter
+ 'BaseballFieldSupportBldg',Recreational Field Support Building (257) - Main Meter
+ 'BaseballStadiumPrkLights',Baseball Pavillion (248) -Lighting Submeter
+ 'BaseballStadiumRecFieldLights',Recreational Field Track & Sports Area (260) -Lighting Submeter
+ 'BaseballStadiumWellPump',Baseball Stadium (177) - Well Pump Submeter
+ 'BryanDataCenter',Bryan Building (082) - Data Center Submeter 
+  'GoveSiteLighting',Gove Student Health Center (016) - Site Lights Submeter
+ 'HHPSoftballStadium',UNCG Spartan Softball Stadium (254) - Main Meter
+ 'HinshawSiteLights',Hinshaw Residence Hall (005) - Site Lights Submeter
+ 'JacksonLibraryTower_kWh',Jackson Library (039) - Main Meter-3 Tower 
+ 'McIverStPrkgDeckLights',McIver Street Parking Deck (169) - Lighting Submeter 
+ 'McNuttDataCenterEDPA',McNutt Building (057) - Server Room EDPA Submeter
+ 'McNuttDataCenterEDPB',McNutt Building (057) - Server Room EDPB Submeter
+ 'MooreNursingAnnex',McIver House Nursing School Annex (030) - Building Main Meter
+ 'MooreStrongSports',Moore-Strong Residence Hall (013) -Sports Submeter
+ 'NDChildCare' ,North Drive Child Care Center (027) - Building Main Meter 
+ 'RagsdaleMendenhallLights',Ragsdale-Mendenhall Residence Hall (234) - Lighting Submeter 
+ 'SRC_1H1A',Kaplan Center for Wellness (308) -Pool Area Lighting Submeter
+ 'SRC_2H1A'  ,Kaplan Center for Wellness (308) -Concourse Area Lighting Submeter
+SRC_2H3A'  ,Kaplan Center for Wellness (308) - Main Gym Lighting Submeter
+SRC_2H4A' ,Kaplan Center for Wellness (308) -Fitness Area and Three Court Gym Lighting Submeter
+SRC_2L1B' ,Kaplan Center for Wellness (308) - Track Lighting Submeter
+SRC_3H3A' ,Kaplan Center for Wellness (308) - Cardio Area Lighting Submeter
+ 'SRC_CUB1',Kaplan Center Utilities Building (309) -Main CUB   
+ 'SRC_GenATS',SRC GenATS
+ 'SRC_Main',Kaplan Center for Wellness (308) - Main Kaplan Building  
+ 'SRC_Pool',Kaplan Center for Wellness (308) - Pool Equipment Submeter 
+ 'SRC_TX_2L1ABC' , 'SRC_TX_2L1ABC' 
+ 'SRC_TX_2L3ABC', 'SRC_TX_2L3ABC'
+ 'SRC_TX_2L4ABC', 'SRC_TX_2L4ABC'
+ 'SRC_TX_3L3AB', 'SRC_TX_3L3AB'
+ 'SpencerHonors',Spencer Honors
+ 'SpencerSiteLts' ,North & South Spencer (024 & 023) -Site Lighting Submeter
+ 'SpringGardenPrkgDeck' ,Spring Garden Apartments (237) - Parking Submeter 
+ 'StudentRecCenterBasement' ,SRC Basement
+ 'StudentRecSiteLts222',SRC Site Lights 222
+ 'TennisCourts',Tennis Courts
+ 'UnderpassNorth',Underpass North 
+ 'WalkerDeckLighting',Walker Ave Parking Deck (141) - Lighting Submeter
