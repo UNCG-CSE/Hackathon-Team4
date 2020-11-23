@@ -18,13 +18,13 @@ Ritu Joshi and Shravya Muttineni, Computer Science Graduate Students at UNCG
   
 
 ## Introduction
-The purpose of this dashboard app is to display total or average energy consumption or average hourly consumption over various hours of the day, days of the week or over months of the year at UNCG. This app enables you to see the actual energy consumption by each building meter and then let's you compare it to the predicted values. Predictions are performed by using the statistical and machine learning models by team "Green Fund" and provided to us to create a dashboard. We can visualize the margin of error in the predictions (95% confidence interval) and it is represented in grey shade along the prediction line in graph 1.
+The purpose of this dashboard app is to display total or average energy consumption or average hourly consumption over various hours of the day, days of the week or over months of the year at UNCG. This app enables you to see the actual energy consumption by each building meter and then lets you compare it to the predicted values. Predictions are performed by using the statistical and machine learning models by team "Green Fund" and provided to us to create a dashboard. We can visualise the margin of error in the predictions (95% confidence interval) and it is represented in grey shade along the prediction line in graph 1.
 
-Predictions are represnted by dashed lines, and actual energy consumption values are presented by solid lines in the plots. 
+Predictions are represented by dashed lines, and actual energy consumption values are presented by solid lines in the plots. 
 
 ## Datasets
 
-The dataset containig the actual consumption, predicted consumption, margin of error lower and ipper bounds, Meter Names and lables are provided to us as part of the Green Fund Hack-a-thon at UNCG which was held from Novemeber 16,2020 to November 23, 2020. The dataset is available in Data forlder.
+The dataset containing the actual consumption, predicted consumption, margin of error lower and upper bounds, Meter Names and labels are provided to us as part of the Green Fund Hack-a-thon at UNCG which was held from November 16,2020 to November 23, 2020. The dataset is available in Data folder.
 
 ## Pre-Requisites
 * Python 3
