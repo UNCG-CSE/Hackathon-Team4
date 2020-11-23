@@ -2,7 +2,7 @@
 
 This app displays the actual and predicted energy consumption values for different buildings/meters at University of North Carolina, Greensboro. User can provide various inputs as per the requirement, and the pulled out data is presented in highly interactive graphs. This app is built using python, plotly and Dash.
 
-![demo](assets/dash-energy-app-demo.gif)
+![demo](images/dash-energy-app-demo.gif)
 
 ## Table of Contents
 * [Team Members](#team-members)
@@ -32,7 +32,7 @@ The dataset containing the actual consumption, predicted consumption, margin of 
 * Git
 * Plotly
 * Dash
-* Detail requirements are provided in requirements.txt
+* Detailed requirements are provided in requirements.txt
 
 ## Setting up the app
 
@@ -57,4 +57,4 @@ In a separate terminal window, you can now run the app:
 python dash-energy-app.py
 ```
 
-and visit http://127.0.0.1:8050/.
+and visit http://127.0.0.1:8050/ or http://127.0.0.1:3004/.
