@@ -356,24 +356,25 @@ def update_graph(cons_agg,freq,act_pred,meters,years,meter_group,freq_group,star
                                 mode='lines+markers',
                                 line={'dash': 'dash'},
                                 name='P-'+meter))
-            fig.add_trace(go.Scatter(
-                                name='Upper Bound',
-                                x=data['Datetime'],
-                                y=data['obs_ci_upper'],
-                                mode='lines',
-                                marker=dict(color="#444"),
-                                line=dict(width=0),
-                                showlegend=False))
-            fig.add_trace(go.Scatter(
-                                name='Lower Bound',
-                                x=data['Datetime'],
-                                y=data['obs_ci_lower'],
-                                marker=dict(color="#444"),
-                                line=dict(width=0),
-                                mode='lines',
-                                fillcolor='rgba(68, 68, 68, 0.3)',
-                                fill='tonexty',
-                                showlegend=False))
+            if freq=='hourly':
+                fig.add_trace(go.Scatter(
+                                    name='Upper Bound',
+                                    x=data['Datetime'],
+                                    y=data['obs_ci_upper'],
+                                    mode='lines',
+                                    marker=dict(color="#444"),
+                                    line=dict(width=0),
+                                    showlegend=False))
+                fig.add_trace(go.Scatter(
+                                    name='Lower Bound',
+                                    x=data['Datetime'],
+                                    y=data['obs_ci_lower'],
+                                    marker=dict(color="#444"),
+                                    line=dict(width=0),
+                                    mode='lines',
+                                    fillcolor='rgba(68, 68, 68, 0.3)',
+                                    fill='tonexty',
+                                    showlegend=False))
 # marker=dict(size=7, color="red") 
     a = ''
     
@@ -510,7 +511,7 @@ def update_graph(cons_agg,freq,act_pred,meters,years,meter_group,freq_group,star
 
 if __name__ == '__main__':
     #app.run_server(debug=True)
-    app.run_server(debug=False,host = '127.0.0.1')
+    app.run_server(debug=False,host = '127.0.0.1',port=3004)
     
     
     
