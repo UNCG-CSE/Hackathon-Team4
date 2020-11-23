@@ -2,7 +2,7 @@
 
 This app displays the actual and predicted energy consumption values for different buildings/meters at University of North Carolina, Greensboro. User can provide various inputs as per the requirement, and the pulled out data is presented in highly interactive graphs. This app is built using python, plotly and Dash.
 
-![demo](assets/demo.gif)
+![demo](assets/dash-energy-app-demo.gif)
 
 ## Table of Contents
 * [Team Members](#team-members)
@@ -24,7 +24,7 @@ Predictions are represnted by dashed lines, and actual energy consumption values
 
 ## Datasets
 
-The dataset containig the actual consumption, predicted consumption, margin of error lower and ipper bounds, Meter Names and lables are provided to us as part of the Green Fund Hack-a-thon at UNCG which was held from Novemeber 16,2020 to November 23, 2020. The dataset is available in Data forlder. 
+The dataset containig the actual consumption, predicted consumption, margin of error lower and ipper bounds, Meter Names and lables are provided to us as part of the Green Fund Hack-a-thon at UNCG which was held from Novemeber 16,2020 to November 23, 2020. The dataset is available in Data forlder.
 
 ## Pre-Requisites
 * Python 3
