@@ -8,13 +8,13 @@ This app displays the actual and predicted energy consumption values for differe
 * [Team Members](#team-members)
 * [Introduction](#introduction)
 * [Dataset](#dataset)
-* [Pre-Requisites](#pre-req)
-* [Setting up the app](#setup)
-* [Start the app](#start)
+* [Pre-Requisites](#pre-requisites)
+* [Setting up the app](#setting-up-the-app)
+* [Start the app](#start-the-app)
 
 ## Team Members
-* [Ritu Joshi], [Shravya Muttineni]
-  * Computer Science Graduate Students at UNCG 
+
+Ritu Joshi and Shravya Muttineni, Computer Science Graduate Students at UNCG 
   
 
 ## Introduction
